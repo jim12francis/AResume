@@ -25,22 +25,3 @@
 	
 </body>
 </html>
-
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>Educational Attainment</title>
-</head>
-<body>
-
-	<ul>
-		<p>Nursery: Badipa elementary school</p>
-		<p>Elementary: Badipa elementary school </p>
-		<p>Highschool: Divine word college of Urdaneta</p>
-	</ul>
-	
-	
-
-</body>
-</html>
